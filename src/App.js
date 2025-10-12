@@ -13,6 +13,7 @@ function App() {
             <hr class="border-4 rounded-lg border-cyan-300 mb-9 w-1/3 mx-auto"></hr>
           </div>
           <Tasks />
+          <footer>Hello Netliry and gitHub</footer>
         </Container>
       </div>
     </ToDoContext.Provider>
