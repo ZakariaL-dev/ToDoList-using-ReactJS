@@ -1,4 +1,4 @@
-# 📝 React-Powered ToDo List
+# ToDoList APP (React JS)
 
 > Effortlessly manage your tasks and boost your productivity.
 
@@ -95,3 +95,5 @@ Project Link: [https://github.com/ZakariaL-dev/ToDoList-using-ReactJS](https://g
 
 - **ZakariaL-dev** - [GitHub Profile](https://github.com/ZakariaL-dev)
 - _For inquiries, please open an issue on the repository._
+=======
+
