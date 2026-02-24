@@ -94,6 +94,9 @@ Distributed under the **MIT License**. See the `LICENSE` file in the repository 
 Project Link: [https://github.com/ZakariaL-dev/ToDoList-using-ReactJS](https://github.com/ZakariaL-dev/ToDoList-using-ReactJS)
 
 - **ZakariaL-dev** - [GitHub Profile](https://github.com/ZakariaL-dev)
-- _For inquiries, please open an issue on the repository._
-=======
+* **Portfolio:** [Portfolio link](https://portfolio-zl-psi.vercel.app/)
+* **Project Link:** [https://github.com/ZakariaL-dev/ToDoList-using-ReactJS](https://github.com/ZakariaL-dev/ToDoList-using-ReactJS)
+
+---
+*May the odds be ever in your favor!*
 
